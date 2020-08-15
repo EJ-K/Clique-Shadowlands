@@ -1,7 +1,7 @@
-## Interface: 80200
-## Title: Clique
-## Author: Cladhaire
-## Version: v80200-1.2.2
+## Interface: 80300
+## Title: Clique - Shadowlands
+## Author: Cladhaire, Waitless
+## Version: v80300-1.2.3
 ## Notes: Simply powerful click-casting interface
 ## SavedVariables: CliqueDB, CliqueDB3
 
